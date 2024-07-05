@@ -6,7 +6,9 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 - Clone the repo
 - Run `npm i` to install all packages
-- Run `npm i gsap @gsap/react` a package to allow us start adding animation
+- Optional `npm i gsap @gsap/react` a package to allow us start adding animation
+- Run `npm run dev`
+- Click from number 1 to 7 to observe animations
 
 Currently, two official plugins are available:
 
