@@ -14,7 +14,7 @@ useGSAP(()=>{
     yoyo: true,
     ease: 'power1.inOut'
   })
-})
+},[])
   return (
     <main>
       <h1>GsapFrom</h1>

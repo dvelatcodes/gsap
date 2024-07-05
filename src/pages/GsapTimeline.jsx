@@ -30,7 +30,7 @@ useGSAP(()=>{
     borderRadius: '8px',
     rotation: 360
   })
-})
+},[])
   return (
     <main>
       <h1>GsapTimeline</h1>

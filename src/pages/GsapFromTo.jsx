@@ -13,7 +13,7 @@ useGSAP(()=>{
     borderRadius: '100%',
     ease: 'bounce.out'
   })
-})
+},[])
 
   return (
     <main>
